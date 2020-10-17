@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+
+nav {
+    background-color: #0590FA;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.header-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    text-align: center;
+}
